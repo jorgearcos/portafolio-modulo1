@@ -51,3 +51,14 @@ h1{
   padding-top: 20rem;
   padding-bottom: 5rem;
 }
+
+.tmn_car img{
+  width: 100%;
+}
+.carousel-indicators{
+  top:17rem;
+}
+
+.carousel-indicators li {
+  background-color: #373A3C;
+}
