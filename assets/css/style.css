@@ -1,0 +1,53 @@
+/*llamado de fuentes
+font-family: 'Permanent Marker', cursive;
+font-family: 'Rokkitt', serif; */
+
+header {
+  height: 100%;
+  background-image: url('../img/bg_hero.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+p{
+  font-family: 'Rokkitt', serif;
+  font-weight: 400;
+}
+
+h1{
+  font-family: 'Rokkitt', serif;
+  font-weight: 700;
+}
+
+.decoracion{
+  text-decoration:underline;
+}
+
+.especial_line{
+  line-height: 2rem;
+}
+
+.tmn_img img{
+  width: 100%
+}
+
+.icono i{
+  margin: 0 0.25rem 0 0.25rem;
+}
+
+.icono a, a:hover {
+  color: #ffffff;
+}
+
+.tipo_especial{
+  font-family: 'Permanent Marker', cursive;
+}
+
+.border_sup{
+  border-top: 1.5px solid #ffffff;
+}
+
+.especial_t{
+  padding-top: 20rem;
+  padding-bottom: 5rem;
+}
